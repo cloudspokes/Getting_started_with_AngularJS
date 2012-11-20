@@ -1,7 +1,7 @@
 # Welcome to the Getting Started with AngularJS #
 ## Challenge #1814 - Getting Started with AngularJS ##
 
-This code was contributed by robertojrojas (http://www.cloudspokes.com/members/robertojrojas "robertojrojas")
+This code was contributed by [robertojrojas] (http://www.cloudspokes.com/members/robertojrojas "robertojrojas")
 
 
 Challenge Requirements
